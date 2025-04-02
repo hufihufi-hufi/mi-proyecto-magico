@@ -2,7 +2,7 @@
 Prueba de paso a paso
 # 🚀 [MasEsote]  
 
-**Descripción**: [Repositorio para el control del Iniciado Superior 1-14 15-18 y 19-30].  
+**Descripción**: [Repositorio para el control del Iniciado Superior 4-14 15-18 y 19-30].  
 
 ## 📦 Contenido  
 - [Objetivos](#)  
